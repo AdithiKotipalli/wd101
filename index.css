@@ -1,18 +1,22 @@
-body {
+body
+{
     background-color: aliceblue;
 }
 
-h1 {
+h1 
+{
     margin: 4px;
 }
 
-.container {
+.container 
+{
     max-width: 70%;
     margin: auto;
     text-align: center;
 }
 
-.parts {
+.parts 
+{
     margin: auto;
     margin-top: 10px;
     border: 1px solid;
@@ -22,28 +26,33 @@ h1 {
 
 
 
-.table {
+.table
+{
     border: 2px solid;
     margin:10px ;
 }
 
-.bord {
+.bord
+{
     border: 1px solid;
     padding: 1px;
 }
 
-.float {
+.float
+{
     text-align: center;
     margin: auto;
     margin-top: 3px;
 }
 
-.form {
+.form 
+{
     margin: auto;
     text-align: center;
 }
 
-.submit {
+.submit 
+{
     text-align:left;
     background-color: rgb(4, 213, 144);
 }
